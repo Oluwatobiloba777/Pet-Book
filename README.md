@@ -9,3 +9,8 @@ This directory contains a basic social network. This project follows the same se
 * Create a virtual environment
 * install requirements.txt
 * then run the development server
+
+## Technologies
+
+* Frontend: HTML, CSS, JavaScript.
+* Backend: Django.
